@@ -1,7 +1,7 @@
 {
   "name": "dev",
   "version": "0.0.1",
-  "description": "Play Pokémon Go from your Genymotion Device",
+  "description": "Play Pokémon GO from your Genymotion device",
   "license": "MIT",
   "repository": "jlobos/pokemongo-genymotion",
   "author": "Jesús Lobos <jlobitu@gmail.com>",

@@ -3,7 +3,7 @@
   <img src=assets/result.gif>
 </p>
 
-# Pokémon Go from your [Genymotion](https://www.genymotion.com/) Device
+# Pokémon GO from your [Genymotion](https://www.genymotion.com/) device
 
 # Installation & Play!
 
