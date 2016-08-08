@@ -1,12 +1,9 @@
 <p align="center">
   <img src=assets/pikachu.gif>
+  <img src=assets/result.gif>
 </p>
 
 # Pokémon Go from your [Genymotion](https://www.genymotion.com/) Device
-
-<p align="center">
-  <img src=assets/result.gif>
-</p>
 
 # Installation & Play!
 
