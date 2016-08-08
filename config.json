@@ -1,0 +1,10 @@
+{
+  "shell": "genymotion-shell",
+  "location": [],
+  "keys": {
+    "UP": "up",
+    "DOWN": "down",
+    "LEFT": "left",
+    "RIGHT": "right"
+  }
+}
