@@ -19,6 +19,6 @@
     "figures": "^1.7.0",
     "jsonfile": "^2.4.0",
     "keypress": "^0.2.1",
-    "lodash": "^4.16.1"
+    "lodash": "^4.16.2"
   }
 }
