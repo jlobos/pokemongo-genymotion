@@ -13,7 +13,7 @@
     "node": ">=6"
   },
   "dependencies": {
-    "ascii-art": "^1.0.3",
+    "ascii-art": "^1.1.1",
     "chalk": "^1.1.3",
     "deep-extend": "^0.4.1",
     "figures": "^1.7.0",
