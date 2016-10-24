@@ -16,7 +16,7 @@
     "ascii-art": "^1.1.0",
     "chalk": "^1.1.3",
     "deep-extend": "^0.4.1",
-    "figures": "^1.7.0",
+    "figures": "^2.0.0",
     "jsonfile": "^2.4.0",
     "keypress": "^0.2.1",
     "lodash": "^4.16.4"
